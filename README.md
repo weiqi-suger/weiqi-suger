@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @weiqi-suger
-- 👀 I’m interested in movies
-- 🌱 I’m currently learning go
-- 💞️ I’m looking to collaborate on the hubspot project
-- 📫 How to reach me: email
-- 😄 Pronouns: walmart shopping bag
-- ⚡ Fun fact: I have 3 macbooks
+# OKTA SCIM
+
+## Goal / Context:
+Our clients want to change the roles of their employees only with Okta, not using Suger-console.
+
+## SCIM implementation
+
+## SAML vs OIDC
